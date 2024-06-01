@@ -1,0 +1,6 @@
+create branch
+git init
+git remote add origin https://github.com/sanjaypatni/devops1.git
+git add
+git commit -am "initial creation"
+git push origin
